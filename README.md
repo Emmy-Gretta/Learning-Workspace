@@ -1,2 +1,2 @@
 # Learning-Workspace
-HTML, CSS, REACT Demos
+Working demos using different languages
